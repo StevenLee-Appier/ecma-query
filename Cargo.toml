@@ -1,0 +1,7 @@
+
+[workspace]
+members = [
+    "crates/query_parser",
+    "crates/babel_codegen"
+]
+
